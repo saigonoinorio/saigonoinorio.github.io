@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>saigonoinori</title>
+  <title>最後の祈りを</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://saigonoinorio.github.io/"/>
-  <updated>2022-11-14T13:16:02.124Z</updated>
+  <updated>2022-12-04T18:21:37.822Z</updated>
   <id>https://saigonoinorio.github.io/</id>
   
   <author>
@@ -17,24 +17,72 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo-Theme-Sakura</title>
-    <link href="https://saigonoinorio.github.io/2018/12/12/Hexo-Theme-Sakura/"/>
-    <id>https://saigonoinorio.github.io/2018/12/12/Hexo-Theme-Sakura/</id>
-    <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2022-11-14T13:16:02.124Z</updated>
+    <title>建站小记</title>
+    <link href="https://saigonoinorio.github.io/2022/12/05/%E5%BB%BA%E7%AB%99%E5%B0%8F%E8%AE%B0/"/>
+    <id>https://saigonoinorio.github.io/2022/12/05/建站小记/</id>
+    <published>2022-12-04T18:19:43.000Z</published>
+    <updated>2022-12-04T18:21:37.822Z</updated>
     
     <summary type="html">
     
-      hexo-sakura主题使用教程
+      往后的人生也请多多指教啦！
     
     </summary>
     
-      <category term="技术" scheme="https://saigonoinorio.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="大事记" scheme="https://saigonoinorio.github.io/tags/%E5%A4%A7%E4%BA%8B%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>背包乱学</title>
+    <link href="https://saigonoinorio.github.io/2022/11/04/%E8%83%8C%E5%8C%85%E4%B9%B1%E5%AD%A6/"/>
+    <id>https://saigonoinorio.github.io/2022/11/04/背包乱学/</id>
+    <published>2022-11-04T09:21:55.000Z</published>
+    <updated>2022-12-04T14:21:54.484Z</updated>
+    
+    <summary type="html">
+    
+      一摸再摸终于摸出来了，感觉水平和干劲双双掉线 (´；ω ；`)
+    
+    </summary>
     
     
-      <category term="web" scheme="https://saigonoinorio.github.io/tags/web/"/>
+  </entry>
+  
+  <entry>
+    <title>CSP-S 2022 琐记</title>
+    <link href="https://saigonoinorio.github.io/2022/10/30/CSP-S%202022%20%E7%90%90%E8%AE%B0/"/>
+    <id>https://saigonoinorio.github.io/2022/10/30/CSP-S 2022 琐记/</id>
+    <published>2022-10-29T18:37:10.000Z</published>
+    <updated>2022-12-04T18:44:26.697Z</updated>
     
-      <category term="悦读" scheme="https://saigonoinorio.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+    <summary type="html">
+    
+      塞莱斯特山有治愈人心的力量，亲爱的。治愈的第一步就是解决问题，那可不轻松。
+    
+    </summary>
+    
+    
+      <category term="大事记, 心音" scheme="https://saigonoinorio.github.io/tags/%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E5%BF%83%E9%9F%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NOIP 数学简结</title>
+    <link href="https://saigonoinorio.github.io/2022/09/23/NOIP%20%E6%95%B0%E5%AD%A6%E7%AE%80%E7%BB%93/"/>
+    <id>https://saigonoinorio.github.io/2022/09/23/NOIP 数学简结/</id>
+    <published>2022-09-23T02:31:59.000Z</published>
+    <updated>2022-12-04T18:40:03.237Z</updated>
+    
+    <summary type="html">
+    
+      考前简单理了一下 NOIP 数学部分，理得比较简陋，不过无所谓啦 (￣3￣)
+    
+    </summary>
+    
+    
+      <category term="noip, 算法, 梳理" scheme="https://saigonoinorio.github.io/tags/noip-%E7%AE%97%E6%B3%95-%E6%A2%B3%E7%90%86/"/>
     
   </entry>
   

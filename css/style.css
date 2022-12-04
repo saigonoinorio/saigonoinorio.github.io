@@ -1,3 +1,44 @@
+body {
+    background-color: #262425 !important;
+}
+.toc{
+    color: #ccc6c9;
+}
+p{
+    color: #d5cece !important;
+    font-size:15px;
+}
+.site-content{
+    background-color: #262425 !important;
+}
+h2{
+    color: #d5cece !important;
+}
+h3{
+    color: #d5cece !important;
+}
+li{
+    color: #d5cece !important;
+}
+.site-footer{
+    background:  #262425 !important;
+}
+.notice i {
+    color: #d5cece !important;
+}
+.notice{
+    color: #d5cece !important;
+}
+.yya{
+    background:#9f989c !important;
+}
+.post-share .show-share{
+    display:none !important;
+}
+h1.fes-title, h1.main-title{
+    display:none !important;
+}
+
 .aplayer-container {
     position: absolute;
     bottom: 0;
