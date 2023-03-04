@@ -473,6 +473,7 @@ Point h1[N&lt;&lt;1],h2[N&lt;&lt;1],H[N&lt;&lt;2];int cnt;
 
 void minkfusji()
 {
+
    	H[cnt=1]=h1[1]+h2[1];
   	int now1=1,now2=1;
   	while(now1&lt;num1&amp;&amp;now2&lt;num2)
@@ -482,7 +483,7 @@ void minkfusji()
    		else
    		H[cnt+1]=H[cnt]+h2[now2+1]-h2[now2],now2++,cnt++;
    	}
-		while(now1&lt;num1) H[cnt+1]=H[cnt]+h1[now1+1]-h1[now1],now1++,cnt++;
+ 	while(now1&lt;num1) H[cnt+1]=H[cnt]+h1[now1+1]-h1[now1],now1++,cnt++;
   	while(now2&lt;num2) H[cnt+1]=H[cnt]+h2[now2+1]-h2[now2],now2++,cnt++;
 }
 </code></pre>
@@ -628,6 +629,7 @@ Circle min_circle()
 }
 double cal(double l,double r)
 {
+
   	return (r-l)*(f(l)+4*f((r+l)/2)+f(r))/6;
 }
  double sim(double l,double r,double ans,double Eps=eps,int dep=1)
@@ -668,9 +670,26 @@ double work()
       <div class="toc" style="background: none;"></div>
       <section class="post-squares nextprev">
         
+          
+            <div class="post-nepre half previous">
+          
+            <a href="/2023/03/05/嘴巴开省选/" rel="prev">
+              <div class="background">
+                <img class="lazyload" src="https://pic.imgdb.cn/item/639b5450b1fccdcd36397c04.png" data-src="https://pic.imgdb.cn/item/64038590f144a010075aefa5.webp" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://pic.imgdb.cn/item/64038590f144a010075aefa5.webp">
+              </div>
+              <span class="label">
+              Previous Post</span>
+              <div class="info">
+                <h3>
+                嘴巴开省选</h3>
+                <hr>
+              </div>
+            </a>
+          </div>
+        
         
           
-            <div class="post-nepre full next">
+            <div class="post-nepre half next">
           
             <a href="/2022/12/05/建站小记/" rel="next">
               <div class="background">
@@ -742,7 +761,7 @@ double work()
   
   <div class="outer">
     <div id="footer-info" class="inner">
-      &copy; 2022 me<br>
+      &copy; 2023 me<br>
       powered_by <a href="http://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
