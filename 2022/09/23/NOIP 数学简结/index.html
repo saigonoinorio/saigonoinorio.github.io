@@ -451,10 +451,10 @@ M834 80h400000v40h-400000z"/></svg></span></span></span><span class="vlist-s">â€
 }
 void ex_oshai(int n)
 {
-    f[1]=1;
+    f[1]=low[1]1;
     for(rint i=2;i&lt;=n;i++)
     {
-        if(!use[i]) susu[++tot]=i,f[i]=f_p;
+        if(!use[i]) susu[++tot]=i,f[i]=f_p,low[i]=i;
         for(rint j=1;j&lt;=tot&amp;&amp;i*susu[j]&lt;=n;j++)
         {
             use[i*susu[j]]=1;
