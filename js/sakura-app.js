@@ -1090,11 +1090,11 @@ var home = location.href,
     },
     AB: function () {
       if (window.location.pathname.indexOf('about') > -1) {
-        $.getScript('/js/botui.js', function () {
-          if (typeof(botui) == undefined && !botui.message) {
-            bot_ui_ini()
-          }
-        })
+        // $.getScript('/js/botui.js', function () {
+        //   if (typeof(botui) == undefined && !botui.message) {
+        //     bot_ui_ini()
+        //   }
+        // })
       }
     },
     VA: function () {
